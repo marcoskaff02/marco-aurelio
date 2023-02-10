@@ -1,8 +1,10 @@
-<h2>  Hey man! </h2>
+##  Hey man
 
 Iniciando na carreira DEV 
 
-Em 2023 conclui meu curso profissionalizante em Desenvolvimento de Sistemas pelo SENAC-PR.
+Em 2023 conclui o curso Programador de Sistemas pelo SENAC Campo Mourão.
+
+Busco oportunidade para aprender como desenvolvedor.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoskaff02&layout=compact)](https://github.com/marcoskaff02)
 
